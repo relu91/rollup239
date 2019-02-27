@@ -15,7 +15,7 @@ module.exports = {
         nodeResolve(),
         builtin(),
         commonjs(),
-        //globals()
+        globals()
         
     ]
 };
